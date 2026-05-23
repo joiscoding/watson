@@ -17,6 +17,8 @@ Voice: first person, conversational, short paragraphs, specific names and number
 5. **Shout-outs** (optional), real names only, plus a forward-looking closer.
 6. **Hashtags**, 5 mix of broad and specific. can search online for popular ones
 
+When hook direction matters, offer a few hook options separately before or alongside the draft. Favor sincere, reflective, human openings over click bait.
+
 ## Examples
 
 - [examples/farewell-amazon.md](examples/farewell-amazon.md), milestone post.
