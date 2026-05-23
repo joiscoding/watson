@@ -1,0 +1,20 @@
+---
+description: Writing style for emails, LinkedIn, design docs, and Slack
+alwaysApply: true
+---
+
+# Writing style
+
+Never use the dash character `-` (no em/en dashes, no hyphenated compounds, no dash-led bullets). Use commas, rephrasing, `•`, or numbers.
+
+```
+❌ Ships next week — pending review.
+✅ Ships next week, pending review.
+```
+
+Never write "it is not X, it is Y" contrasts. State the positive directly.
+
+```
+❌ It is not a bug fix, it is a reliability improvement.
+✅ It is a reliability improvement.
+```
