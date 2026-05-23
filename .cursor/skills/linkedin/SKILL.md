@@ -10,18 +10,19 @@ Voice: first person, conversational, short paragraphs, specific names and number
 
 ## Structure
 
-1. **Hook**, one line: milestone, meeting, or observation.
+1. **Hook**, one line: milestone, meeting, or observation. A "setup then reversal" shape works well ("I came to X to do Y. I left having Z.").
 2. **Framing**, sets up what follows ("3 things I learned from X:", "Here's what 42 months taught me:", "A few thoughts on Y:"). Numbered lists are common but not required.
 3. **Body** Often 3 learnings as `**Label.`** + 1 to 2 sentences with blank lines between, but it can also be a short story, a single argument, or a different count of points. Match the shape to the idea.
 4. **Reflection**, the takeaway.
-5. **Shout-outs** (optional), real names only, plus a forward-looking closer.
+5. **Shout-outs** (optional), real names only, plus a forward-looking closer ("Can't wait to come back to X", "Excited for what this community ships next").
 6. **Hashtags**, 5 mix of broad and specific. can search online for popular ones
 
 When hook direction matters, offer a few hook options separately before or alongside the draft. Favor sincere, reflective, human openings over click bait.
 
 ## Examples
 
-- [examples/farewell-amazon.md](examples/farewell-amazon.md), milestone post.
-- [examples/greg-brockman.md](examples/greg-brockman.md), "3 things I learned from X" post.
+- [examples/farewell-amazon.md](examples/farewell-amazon.md), milestone post (legacy, emoji-heavy).
+- [examples/greg-brockman.md](examples/greg-brockman.md), "3 things I learned from X" post (legacy, emoji-heavy).
+- [examples/ai-engineer-singapore.md](examples/ai-engineer-singapore.md), short POV post, no emojis, single-argument body. Closest to current voice.
 
-Note: example posts are emoji-heavy and predate the current emoji policy. Use them for structure, not for emoji density.
+Legacy examples are useful for structure (hook → framing → body → reflection → close). Match the current voice (emoji-light, short) of the Singapore example for density and tone.
