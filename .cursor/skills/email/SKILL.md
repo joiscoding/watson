@@ -1,5 +1,5 @@
 ---
-name: emaildrafting
+name: email
 description: "Draft emails in Joseph Yang's voice. Use when the user asks for sending emails. "
 model: Opus 4.7 Low Fast
 ---
