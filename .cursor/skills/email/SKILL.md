@@ -35,5 +35,6 @@ Do not use the dash character in emails. No hyphens, en dashes, or em dashes. Re
 - [references/evalfollowup.md](references/evalfollowup.md), customer follow up with numbered recommendations.
 - [references/introoutreach.md](references/introoutreach.md), warm introductory outreach to a senior external recipient.
 - [references/agenda.md](references/agenda.md), concise agenda note.
+- [references/mandarin-signing.md](references/mandarin-signing.md), Mandarin customer follow up with a signing example, warm but not corporate, uses 您 for elder or senior recipients.
 
 Use the closest example for structure and density. Match the user's provided facts first, then borrow phrasing patterns from the examples.
